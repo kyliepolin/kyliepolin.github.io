@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#wrapper {
+    background-color: #F8C1F1;
+    height: 400px;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+a:link {
+    color: red
+}
+
+a:visited {
+	color: red
+}
+a:hover {
+    color: yellow;
+    font-weight: bold;
+}ul {
+    font-size: 30px;
+    text-align: center;
+    list-style-type: none;
+}
