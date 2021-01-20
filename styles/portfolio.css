@@ -4,7 +4,10 @@
 
 #wrapper {
     background-color: #F8C1F1;
-    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    height: 700px;
 }
 h1 {
     text-align: center;
